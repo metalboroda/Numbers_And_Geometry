@@ -19,6 +19,10 @@ PrefabInstance:
       propertyPath: _subLevels.Array.data[0]
       value: 
       objectReference: {fileID: 6484014765523721656}
+    - target: {fileID: 1216288360115650202, guid: a454cc821da5e1b419971d0230763865, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5882353
+      objectReference: {fileID: 0}
     - target: {fileID: 1850370716804923053, guid: a454cc821da5e1b419971d0230763865, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -114,6 +118,10 @@ PrefabInstance:
     - target: {fileID: 5193751400379623302, guid: a454cc821da5e1b419971d0230763865, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360717654089213276, guid: a454cc821da5e1b419971d0230763865, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 950
       objectReference: {fileID: 0}
     - target: {fileID: 5451086293501585842, guid: a454cc821da5e1b419971d0230763865, type: 3}
       propertyPath: m_AnchorMax.y
